@@ -1,0 +1,9 @@
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\bin\Debug\netcoreapp3.1\SafeAuto.Core.deps.json
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\bin\Debug\netcoreapp3.1\SafeAuto.Core.dll
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\bin\Debug\netcoreapp3.1\SafeAuto.Core.pdb
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\obj\Debug\netcoreapp3.1\SafeAuto.Core.csprojAssemblyReference.cache
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\obj\Debug\netcoreapp3.1\SafeAuto.Core.AssemblyInfoInputs.cache
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\obj\Debug\netcoreapp3.1\SafeAuto.Core.AssemblyInfo.cs
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\obj\Debug\netcoreapp3.1\SafeAuto.Core.csproj.CoreCompileInputs.cache
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\obj\Debug\netcoreapp3.1\SafeAuto.Core.dll
+D:\Animor\Animor\ExamenSafeSeguros\SafeAuto\SafeAuto.Core\obj\Debug\netcoreapp3.1\SafeAuto.Core.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SafeAuto.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SafeAuto.Core": "1.0.0"
+        },
+        "runtime": {
+          "SafeAuto.Infrastructure.dll": {}
+        }
+      },
+      "SafeAuto.Core/1.0.0": {
+        "runtime": {
+          "SafeAuto.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SafeAuto.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SafeAuto.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
