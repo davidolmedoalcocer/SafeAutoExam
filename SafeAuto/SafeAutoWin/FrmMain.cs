@@ -29,6 +29,9 @@ namespace SafeAutoWin
                 string fileName = this.opdOpenFile.FileName;
                 string[] lines = File.ReadAllLines(fileName);
 
+                //Clean the drivers list
+                this._driverService.CleanDriverList();
+
                 this.ProcessLines(lines);
 
             }
