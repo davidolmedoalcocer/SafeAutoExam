@@ -17,6 +17,11 @@ namespace SafeAuto.Core.Services
             this._driverRepository = driverRepository;
         }
 
+        public void CleanDriverList()
+        {
+            this._driverRepository.CleanDriverList();
+        }
+
         public List<Driver> GetDriversSorted()
         {
             return _driverRepository.GetDriversSorted();

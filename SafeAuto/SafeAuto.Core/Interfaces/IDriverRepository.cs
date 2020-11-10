@@ -8,5 +8,7 @@ namespace SafeAuto.Core.Interfaces
         void AddDriver(Driver driver);
         void AddTrip(string driverName, Trip trip);
         List<Driver> GetDriversSorted();
+
+        void CleanDriverList();
     }
 }

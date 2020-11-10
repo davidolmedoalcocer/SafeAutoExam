@@ -19,5 +19,7 @@ namespace SafeAuto.Core.Interfaces
         /// </summary>
         /// <returns></returns>
         List<Driver> GetDriversSorted();
+
+        void CleanDriverList();
     }
 }
